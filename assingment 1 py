@@ -1,5 +1,4 @@
-class books:
-    def __init__(self, book_id, book_name, author):
+def __init__(self, book_id, book_name, author):
         self.book_id = book_id
         self.book_name = book_name
         self.author = author
